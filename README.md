@@ -40,10 +40,11 @@ I focus on practical software development, full stack applications, machine lear
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
-**Database:**  
+**Database & ORM:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6B7280)
 
 **Machine Learning:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

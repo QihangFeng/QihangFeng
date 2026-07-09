@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Qihang Feng 👋</h1>
+<h1 align="center">
+  Hi, I'm Qihang Feng
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving hand" width="35" height="35" />
+</h1>
 
 <p align="center">
-  MEng Student · Software Development · Full Stack Web · Machine Learning
+  MEng Student · Software Development · Full Stack Applications · Machine Learning
 </p>
 
+
 <p align="center">
-  <a href="https://qfeng.beaverexp.com/">
-    <img src="https://img.shields.io/badge/Portfolio-qfeng.beaverexp.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:q7feng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-q7feng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://qfeng.beaverexp.com/"><img src="https://img.shields.io/badge/Portfolio-qfeng.beaverexp.com-0A66C2?logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:q7feng@gmail.com"><img src="https://img.shields.io/badge/Email-q7feng%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -21,14 +21,13 @@ MEng student in Electrical and Computer Engineering at the University of Alberta
 
 I focus on practical software development, full stack applications, machine learning workflows, and clear technical documentation.
 
-- Based in Edmonton, AB, Canada
-- Expected graduation: May 2027
-- GPA: 3.9 / 4.0
-- Interested in full stack development, AI applications, and machine learning systems
+📍 Based in Edmonton, AB, Canada  
+🎓 GPA: 3.9 / 4.0  
+💡 Interested in full stack development, AI applications, and machine learning systems  
 
 ---
 
-## Technical Stack
+### Technical Stack
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -52,7 +51,7 @@ I focus on practical software development, full stack applications, machine lear
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-**Tools & Testing:**  
+**Tools:**  
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?logo=jupyter&logoColor=white)
@@ -62,3 +61,4 @@ I focus on practical software development, full stack applications, machine lear
 ### Current Focus
 
 - Contributing to research on AI agent safety and failure localization
+- Building full stack web applications with React, FastAPI, and PostgreSQL

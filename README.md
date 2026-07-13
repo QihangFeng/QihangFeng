@@ -19,10 +19,7 @@
 
 MEng student in Electrical and Computer Engineering at the University of Alberta, specializing in Software Engineering and Intelligent Systems.
 
-I focus on practical software development, full stack applications, machine learning workflows, and clear technical documentation.
-
 📍 Based in Edmonton, AB, Canada  
-🎓 GPA: 3.9 / 4.0  
 💡 Interested in full stack development, AI applications, and machine learning systems  
 
 ---
